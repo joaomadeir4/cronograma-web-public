@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+.uv-cache/
+.uv-python/
+linkedin/
+descontinuado/
+dados/acervo/
+docs/
+CLAUDE.md
+*.pyc
+.env
+dados/*.json
+frontend/node_modules/
+frontend/dist/
