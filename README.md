@@ -10,7 +10,7 @@ Aplicacao web local para organizar sessoes de estudo, acompanhar checkpoints e r
 
 ## Executar localmente
 
-Backend, em um terminal:
+Inicie o backend em um terminal e mantenha-o aberto:
 
 ```powershell
 python -m venv .venv
@@ -18,7 +18,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m uvicorn api:app --reload
 ```
 
-Frontend, em outro terminal:
+Em outro terminal, inicie o frontend:
 
 ```powershell
 cd frontend
